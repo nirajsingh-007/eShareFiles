@@ -1,0 +1,47 @@
+.profile-box{
+    width: 37%;
+    background: #ffffff;
+    margin:auto;
+    border: #b0b1b3;
+    box-shadow: 0 0 5px #b0b1b3;
+    border-radius: 5px;
+}
+.profile-box-text {
+    border-radius: 5px;
+    box-shadow: 0 0 2px #b0b1b3;
+    border: none;
+    margin: 15px 10%;
+    padding: 10px;
+}
+
+.profile-img{
+    margin: 25px 30%;
+    width: 42%;
+    height: auto;
+}
+.error{
+    padding: 0 50px;
+}
+.btn-submit{
+    margin: 15px 25%;
+    background: #5c7fff;
+    padding: 15px;
+    width: 0%;
+    border: none;
+    border-radius: 5px;
+}
+p{
+    margin-left: 30px;
+}
+p a{
+    color: #5c7fff;
+}
+.btn-submit{
+    margin: 15px 25%;
+    background: #5c7fff;
+    color: #ffffff;
+    padding: 15px;
+    width: 50%;
+    border: none;
+    border-radius: 5px;
+}
